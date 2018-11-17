@@ -1,2 +1,2 @@
 # Daily Coding Problems
-Solutions to Daily Coding Problem questions
+Solutions to Daily Coding Problem questions in Python
