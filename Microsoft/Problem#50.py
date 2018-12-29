@@ -27,4 +27,4 @@ def evaluate(root):
     elif root.data == '*': 
         return leftSum * rightSum 
     elif root.data == '/' :
-        return leftSum / rightSum 
+        return leftSum // rightSum 
