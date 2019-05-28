@@ -14,3 +14,4 @@ Solutions to Daily Coding Problem questions in Python
 - [MongoDB](MongoDB)
 - [Lyft](Lyft)
 - [Airbnb](Airbnb)
+- [Palantir](Palantir)
