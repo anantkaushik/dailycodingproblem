@@ -23,7 +23,8 @@ def rotateRight(head, k):
         head = head.next
     head.next = curr
     return result
-    
+
+
 def length(head):
     count = 0
     while head:
