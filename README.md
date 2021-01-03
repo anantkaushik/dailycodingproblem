@@ -18,5 +18,6 @@ Solutions to Daily Coding Problem questions in Python
 - [Palantir](Palantir)
 - [IBM](IBM)
 - [Dropbox](Dropbox)
+- [Bloomberg](Bloomberg)
 - [Salesforce](Salesforce)
 - [Others](Others)
